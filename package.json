@@ -1,0 +1,11 @@
+{
+  "name": "beef",
+  "version": "1.0.0",
+  "description": "Bedrock Edition Extended Functions. Esentially writing your mcfunctions to a gametest pack, which will allow us to bypass the cmd function limit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ATXLtheAxolotl#2134",
+  "license": "MIT"
+}
